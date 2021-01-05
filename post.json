@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Post One",
+        "author":"User 1",
+        "body":"This is Post One"
+    },
+    {
+        "title":"Post Two",
+        "author":"User 2",
+        "body":"This is Post Two"
+    },
+    {
+        "title":"Post Three",
+        "author":"User 3",
+        "body":"This is Post Three"
+    }
+]
